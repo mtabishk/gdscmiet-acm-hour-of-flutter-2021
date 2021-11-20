@@ -233,7 +233,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     Slider(
                       value: _height.toDouble(),
                       min: 100.0,
-                      max: 200.0,
+                      max: 300.0,
                       divisions: 100,
                       activeColor: Colors.white,
                       inactiveColor: Colors.white24,
